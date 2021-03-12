@@ -1,0 +1,4 @@
+Hello,
+Hope you are well. If you are from my Youtube Playlist, You may know that the video no.7 is about writing local languages in HTML.
+The code was small so no source file was required for you to learn this.
+Thank you. Have a nice day.
